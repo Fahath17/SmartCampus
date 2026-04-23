@@ -1,0 +1,14 @@
+com\smartcampus\smartcampus\AppConfig.class
+com\smartcampus\smartcampus\resources\RoomResource.class
+com\smartcampus\smartcampus\exceptions\RoomNotEmptyException.class
+com\smartcampus\smartcampus\exceptions\RoomNotEmptyExceptionMapper.class
+com\smartcampus\smartcampus\DataStore.class
+com\smartcampus\smartcampus\models\Room.class
+com\smartcampus\smartcampus\resources\JavaEE8Resource.class
+com\smartcampus\smartcampus\resources\SensorReadingResource.class
+com\smartcampus\smartcampus\JAXRSConfiguration.class
+com\smartcampus\smartcampus\models\Sensor.class
+com\smartcampus\smartcampus\models\SensorReading.class
+com\smartcampus\smartcampus\resources\DiscoveryResource.class
+com\smartcampus\smartcampus\resources\SensorResource.class
+com\smartcampus\smartcampus\filters\LoggingFilter.class
